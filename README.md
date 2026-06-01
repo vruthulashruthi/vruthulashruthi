@@ -134,7 +134,7 @@ Multi-agent deep RL trading framework comparing **4 algorithms** across 5+ years
 *Kirubavathi G., Vijayavarsini K.J., and **Vruthula Shruthi G.S.***  
 **Scientific Reports, Nature Publishing Group — 2026**
 
-[![Read Paper](https://img.shields.io/badge/Read%20Paper-Nature-068C45?style=for-the-badge&logo=nature&logoColor=white)](https://www.nature.com/srep/)
+[![Read Paper](https://img.shields.io/badge/Read%20Paper-Nature-068C45?style=for-the-badge&logo=nature&logoColor=white)]([https://www.nature.com/srep/](https://www.nature.com/articles/s41598-026-53651-9_reference.pdf))
 
 </div>
 
@@ -171,22 +171,6 @@ Multi-agent deep RL trading framework comparing **4 algorithms** across 5+ years
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vruthulashruthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vruthulashruthi&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vruthulashruthi&theme=tokyonight&hide_border=true)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vruthulashruthi&color=a78bfa&style=flat-square&label=Profile+Views)
-
-</div>
-
----
 
 <div align="center">
 
