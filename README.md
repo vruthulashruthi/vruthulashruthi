@@ -54,7 +54,7 @@ class VruthulaShruthiGS:
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,git,github,vscode,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 
 **ML / AI / Data**
 
@@ -67,7 +67,7 @@ class VruthulaShruthiGS:
 
 **Databases & Infra**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,hadoop&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
 
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
