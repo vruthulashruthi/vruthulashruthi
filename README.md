@@ -83,7 +83,7 @@ class VruthulaShruthiGS:
 
 A resume-aware career intelligence platform. Uses **Transformers** for semantic skill extraction, computes readiness scores across **10+ roles** benchmarked against real-time job-market data, and generates personalized learning plans via **LLMs + RAG + Agentic AI** — cutting manual career-planning effort by **70%+**.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vruthulashruthi)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/vruthulashruthi](https://github.com/vruthulashruthi/Career-Health-Platform))
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-A78BFA?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-34D399?style=flat-square)
